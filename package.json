@@ -1,0 +1,29 @@
+{
+  "name": "skypeibot",
+  "version": "1.0.0",
+  "description": "Skype Bot to automate conversation with code injection on the fly.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyagain/skypeibot.git"
+  },
+  "keywords": [
+    "bot",
+    "skype",
+    "codeinjection",
+    "snippets"
+  ],
+  "author": "sunnyagain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunnyagain/skypeibot/issues"
+  },
+  "homepage": "https://github.com/sunnyagain/skypeibot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "restify": "^4.3.0"
+  }
+}
